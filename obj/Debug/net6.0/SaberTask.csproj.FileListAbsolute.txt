@@ -1,0 +1,15 @@
+C:\Users\zarin\source\repos\SaberTask\SaberTask\bin\Debug\net6.0\SaberTask.exe
+C:\Users\zarin\source\repos\SaberTask\SaberTask\bin\Debug\net6.0\SaberTask.deps.json
+C:\Users\zarin\source\repos\SaberTask\SaberTask\bin\Debug\net6.0\SaberTask.runtimeconfig.json
+C:\Users\zarin\source\repos\SaberTask\SaberTask\bin\Debug\net6.0\SaberTask.dll
+C:\Users\zarin\source\repos\SaberTask\SaberTask\bin\Debug\net6.0\SaberTask.pdb
+C:\Users\zarin\source\repos\SaberTask\SaberTask\obj\Debug\net6.0\SaberTask.csproj.AssemblyReference.cache
+C:\Users\zarin\source\repos\SaberTask\SaberTask\obj\Debug\net6.0\SaberTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zarin\source\repos\SaberTask\SaberTask\obj\Debug\net6.0\SaberTask.AssemblyInfoInputs.cache
+C:\Users\zarin\source\repos\SaberTask\SaberTask\obj\Debug\net6.0\SaberTask.AssemblyInfo.cs
+C:\Users\zarin\source\repos\SaberTask\SaberTask\obj\Debug\net6.0\SaberTask.csproj.CoreCompileInputs.cache
+C:\Users\zarin\source\repos\SaberTask\SaberTask\obj\Debug\net6.0\SaberTask.dll
+C:\Users\zarin\source\repos\SaberTask\SaberTask\obj\Debug\net6.0\refint\SaberTask.dll
+C:\Users\zarin\source\repos\SaberTask\SaberTask\obj\Debug\net6.0\SaberTask.pdb
+C:\Users\zarin\source\repos\SaberTask\SaberTask\obj\Debug\net6.0\SaberTask.genruntimeconfig.cache
+C:\Users\zarin\source\repos\SaberTask\SaberTask\obj\Debug\net6.0\ref\SaberTask.dll
